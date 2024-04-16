@@ -6,4 +6,4 @@ spring:
       server:
         git:
           uri: https://github.com/KIM-KWAN-IL/config-repo.git
-          search-paths: '{ application }
+          search-paths: '{application}'
